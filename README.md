@@ -1,2 +1,2 @@
 # git-github
-Spring Github Project
+Spring Github Project - This is Git Project for the Spring. 
